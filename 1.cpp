@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// All types of Patterns Code
 void print(int n) {
 for(int i=0;i<n;i++) {
 	for(int j=0; j<n;j++) {
